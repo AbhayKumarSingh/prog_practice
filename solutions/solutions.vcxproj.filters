@@ -36,6 +36,9 @@
     <ClCompile Include="ctci\chapter01\q01_05\one_away.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ctci\chapter01\q01_06\string_compression.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Source.h">
@@ -60,6 +63,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ctci\chapter01\q01_05\one_away.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ctci\chapter01\q01_06\string_compression.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
