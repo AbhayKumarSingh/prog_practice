@@ -17,6 +17,7 @@
     <ClCompile Include="ctci\chapter01\q01_04\palindrome_permutation.cpp" />
     <ClCompile Include="ctci\chapter01\q01_05\one_away.cpp" />
     <ClCompile Include="ctci\chapter01\q01_06\string_compression.cpp" />
+    <ClCompile Include="ctci\chapter01\q01_07\rotate_matrix.cpp" />
     <ClCompile Include="Painter.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
@@ -27,6 +28,7 @@
     <ClInclude Include="ctci\chapter01\q01_04\palindrome_permutation.h" />
     <ClInclude Include="ctci\chapter01\q01_05\one_away.h" />
     <ClInclude Include="ctci\chapter01\q01_06\string_compression.h" />
+    <ClInclude Include="ctci\chapter01\q01_07\rotate_matrix.h" />
     <ClInclude Include="Painter.h" />
     <ClInclude Include="Source.h" />
     <ClInclude Include="Turtle.h" />
