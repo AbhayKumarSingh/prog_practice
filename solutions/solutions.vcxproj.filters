@@ -42,6 +42,9 @@
     <ClCompile Include="ctci\chapter01\q01_07\rotate_matrix.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ctci\chapter01\q01_09\string_rotation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Source.h">
@@ -75,6 +78,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ctci\chapter01\q01_08\zero_matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ctci\chapter01\q01_09\string_rotation.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -42,6 +42,9 @@
     <ClCompile Include="ctci\chapter01\t01_08\zero_matrix_test.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ctci\chapter01\t01_09\string_rotation_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="common\gtest_custom.h">
