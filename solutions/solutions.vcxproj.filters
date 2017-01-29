@@ -74,5 +74,8 @@
     <ClInclude Include="ctci\chapter01\q01_07\rotate_matrix.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ctci\chapter01\q01_08\zero_matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

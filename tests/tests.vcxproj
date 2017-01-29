@@ -91,6 +91,7 @@
     <ClCompile Include="ctci\chapter01\t01_05\one_away_test.cpp" />
     <ClCompile Include="ctci\chapter01\t01_06\string_compression_test.cpp" />
     <ClCompile Include="ctci\chapter01\t01_07\rotate_matrix_test.cpp" />
+    <ClCompile Include="ctci\chapter01\t01_08\zero_matrix_test.cpp" />
     <ClCompile Include="SourceTest.cpp" />
   </ItemGroup>
   <ItemGroup>
