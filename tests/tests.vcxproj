@@ -93,6 +93,8 @@
     <ClCompile Include="ctci\chapter01\t01_07\rotate_matrix_test.cpp" />
     <ClCompile Include="ctci\chapter01\t01_08\zero_matrix_test.cpp" />
     <ClCompile Include="ctci\chapter01\t01_09\string_rotation_test.cpp" />
+    <ClCompile Include="ctci\chapter02\t02_01\remove_dups_test.cpp" />
+    <ClCompile Include="common\linked_list_gtest_utilities.cpp" />
     <ClCompile Include="SourceTest.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -102,6 +104,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="common\gtest_custom.h" />
+    <ClInclude Include="common\linked_list_gtest_utilities.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

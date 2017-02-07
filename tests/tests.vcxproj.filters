@@ -45,9 +45,18 @@
     <ClCompile Include="ctci\chapter01\t01_09\string_rotation_test.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ctci\chapter02\t02_01\remove_dups_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="common\linked_list_gtest_utilities.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="common\gtest_custom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="common\linked_list_gtest_utilities.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
