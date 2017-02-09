@@ -95,6 +95,7 @@
     <ClCompile Include="ctci\chapter01\t01_09\string_rotation_test.cpp" />
     <ClCompile Include="ctci\chapter02\t02_01\remove_dups_test.cpp" />
     <ClCompile Include="common\linked_list_gtest_utilities.cpp" />
+    <ClCompile Include="ctci\chapter02\t02_02\return_kth_to_last_test.cpp" />
     <ClCompile Include="SourceTest.cpp" />
   </ItemGroup>
   <ItemGroup>

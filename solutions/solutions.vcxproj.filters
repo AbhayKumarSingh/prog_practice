@@ -54,6 +54,9 @@
     <ClCompile Include="ctci\library\assorted_methods.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ctci\chapter02\q02_02\return_kth_to_last.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Source.h">
@@ -99,6 +102,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ctci\library\assorted_methods.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ctci\chapter02\q02_02\return_kth_to_last.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

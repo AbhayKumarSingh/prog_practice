@@ -51,6 +51,9 @@
     <ClCompile Include="common\linked_list_gtest_utilities.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ctci\chapter02\t02_02\return_kth_to_last_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="common\gtest_custom.h">
