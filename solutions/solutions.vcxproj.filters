@@ -57,6 +57,9 @@
     <ClCompile Include="ctci\chapter02\q02_02\return_kth_to_last.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ctci\chapter02\q02_03\delete_middle_node.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Source.h">
@@ -105,6 +108,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ctci\chapter02\q02_02\return_kth_to_last.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ctci\chapter02\q02_03\delete_middle_node.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

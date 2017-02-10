@@ -96,6 +96,7 @@
     <ClCompile Include="ctci\chapter02\t02_01\remove_dups_test.cpp" />
     <ClCompile Include="common\linked_list_gtest_utilities.cpp" />
     <ClCompile Include="ctci\chapter02\t02_02\return_kth_to_last_test.cpp" />
+    <ClCompile Include="ctci\chapter02\t02_03\delete_middle_node_test.cpp" />
     <ClCompile Include="SourceTest.cpp" />
   </ItemGroup>
   <ItemGroup>
