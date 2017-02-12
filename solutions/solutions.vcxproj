@@ -23,6 +23,7 @@
     <ClCompile Include="ctci\chapter02\q02_02\return_kth_to_last.cpp" />
     <ClCompile Include="ctci\chapter02\q02_03\delete_middle_node.cpp" />
     <ClCompile Include="ctci\chapter02\q02_04\partition.cpp" />
+    <ClCompile Include="ctci\chapter02\q02_05\sum_lists.cpp" />
     <ClCompile Include="ctci\library\assorted_methods.cpp" />
     <ClCompile Include="ctci\library\linked_list_node.cpp" />
     <ClCompile Include="Painter.cpp" />
@@ -42,6 +43,7 @@
     <ClInclude Include="ctci\chapter02\q02_02\return_kth_to_last.h" />
     <ClInclude Include="ctci\chapter02\q02_03\delete_middle_node.h" />
     <ClInclude Include="ctci\chapter02\q02_04\partition.h" />
+    <ClInclude Include="ctci\chapter02\q02_05\sum_lists.h" />
     <ClInclude Include="ctci\library\assorted_methods.h" />
     <ClInclude Include="ctci\library\linked_list_node.h" />
     <ClInclude Include="Painter.h" />

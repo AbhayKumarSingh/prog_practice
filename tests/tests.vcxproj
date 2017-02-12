@@ -98,6 +98,7 @@
     <ClCompile Include="ctci\chapter02\t02_02\return_kth_to_last_test.cpp" />
     <ClCompile Include="ctci\chapter02\t02_03\delete_middle_node_test.cpp" />
     <ClCompile Include="ctci\chapter02\t02_04\partition_test.cpp" />
+    <ClCompile Include="ctci\chapter02\t02_05\sum_lists_test.cpp" />
     <ClCompile Include="SourceTest.cpp" />
   </ItemGroup>
   <ItemGroup>

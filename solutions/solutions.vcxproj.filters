@@ -60,6 +60,12 @@
     <ClCompile Include="ctci\chapter02\q02_03\delete_middle_node.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ctci\chapter02\q02_04\partition.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ctci\chapter02\q02_05\sum_lists.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Source.h">
@@ -111,6 +117,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ctci\chapter02\q02_03\delete_middle_node.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ctci\chapter02\q02_04\partition.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ctci\chapter02\q02_05\sum_lists.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
