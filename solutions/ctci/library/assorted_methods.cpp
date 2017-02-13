@@ -16,5 +16,14 @@ void delete_linked_list(linked_list_node *head){
 	}
 }
 
+int length(linked_list_node *head){
+	int length = 0;
+	while (head){
+		++length;
+		head = head->next;
+	}
+	return length;
+}
+
 } // namespace am
 } // namespace libr

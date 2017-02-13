@@ -1,7 +1,9 @@
 #include "sum_lists.h"
+#include "..\..\library\assorted_methods.h"
 
 namespace ctci{
 using libr::linked_list_node;
+using libr::am::length;
 
 namespace{
 linked_list_node *add_lists(linked_list_node *l1, linked_list_node *l2, int carry){
@@ -36,15 +38,6 @@ struct partial_sum{
 	linked_list_node *head;
 	int carry;
 };
-
-int length(linked_list_node *head){
-	int length = 0;
-	while (head){
-		++length;
-		head = head->next;
-	}
-	return length;
-}
 
 linked_list_node *insert_before(linked_list_node *head, int value){
 	auto temp = new linked_list_node(value);

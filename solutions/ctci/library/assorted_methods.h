@@ -26,6 +26,7 @@ linked_list_node *build_linked_list(It first, It last){
 
 linked_list_node *build_linked_list(const std::initializer_list<int> &list);
 void delete_linked_list(linked_list_node *head);
+int length(linked_list_node *head);
 } // namespace am
 
 } // namespace libr
