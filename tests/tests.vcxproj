@@ -100,6 +100,7 @@
     <ClCompile Include="ctci\chapter02\t02_04\partition_test.cpp" />
     <ClCompile Include="ctci\chapter02\t02_05\sum_lists_test.cpp" />
     <ClCompile Include="ctci\chapter02\t02_06\palindrome_test.cpp" />
+    <ClCompile Include="ctci\chapter02\t02_07\intersection_test.cpp" />
     <ClCompile Include="SourceTest.cpp" />
   </ItemGroup>
   <ItemGroup>
