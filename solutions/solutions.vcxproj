@@ -26,6 +26,7 @@
     <ClCompile Include="ctci\chapter02\q02_05\sum_lists.cpp" />
     <ClCompile Include="ctci\chapter02\q02_06\palindrome.cpp" />
     <ClCompile Include="ctci\chapter02\q02_07\intersection.cpp" />
+    <ClCompile Include="ctci\chapter02\q02_08\loop_detection.cpp" />
     <ClCompile Include="ctci\library\assorted_methods.cpp" />
     <ClCompile Include="ctci\library\linked_list_node.cpp" />
     <ClCompile Include="Painter.cpp" />
@@ -48,6 +49,7 @@
     <ClInclude Include="ctci\chapter02\q02_05\sum_lists.h" />
     <ClInclude Include="ctci\chapter02\q02_06\palindrome.h" />
     <ClInclude Include="ctci\chapter02\q02_07\intersection.h" />
+    <ClInclude Include="ctci\chapter02\q02_08\loop_detection.h" />
     <ClInclude Include="ctci\library\assorted_methods.h" />
     <ClInclude Include="ctci\library\linked_list_node.h" />
     <ClInclude Include="Painter.h" />

@@ -72,6 +72,9 @@
     <ClCompile Include="ctci\chapter02\q02_07\intersection.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ctci\chapter02\q02_08\loop_detection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Source.h">
@@ -135,6 +138,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ctci\chapter02\q02_07\intersection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ctci\chapter02\q02_08\loop_detection.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -69,6 +69,9 @@
     <ClCompile Include="ctci\chapter02\t02_07\intersection_test.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ctci\chapter02\t02_08\loop_detection_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="common\gtest_custom.h">
